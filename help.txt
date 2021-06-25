@@ -1,0 +1,1 @@
+https://www.adesso.de/de/news/blog/websockets-leichtgemacht-mit-stomp-js-und-spring-boot.jsp
